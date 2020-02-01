@@ -1,4 +1,4 @@
-[image1]: ./drapeau.png "result"
+[image1]: ./img/drapeau.png "result"
 
 # Create pictures with matrix
 

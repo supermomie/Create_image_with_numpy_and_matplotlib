@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-NAME = "drapeau"
+
+FOLDER = "./img/"
+NAME = FOLDER+"drapeau"
 H = 2000
 W = 2000
 
