@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 NAME = "drapeau"
-H = 1000
-W = 1000
+H = 2000
+W = 2000
 
 BLUE   = [0, 0, 255]
 GREEN  = [0, 255, 0]
@@ -35,6 +35,7 @@ def create_img(name, h, w):
     #print(newImage)
     plt.title(name)
     plt.imshow(image)
+    plt.savefig(name)
     plt.show()
 
 
