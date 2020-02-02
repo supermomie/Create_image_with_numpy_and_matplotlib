@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 FOLDER = "./img/"
 NAME = "drapeau"
 PATH = FOLDER+NAME
-H = 10
-W = 23
+H = 11
+W = 25
 
 RED    = [255, 0, 0]
 GREEN  = [0, 255, 0]
